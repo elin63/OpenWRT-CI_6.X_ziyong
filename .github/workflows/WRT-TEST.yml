@@ -14,6 +14,7 @@ on:
         required: true
         type: choice
         options:
+          - ZNM2-WIFI-NO
           - IPQ60XX-WIFI-YES
           - IPQ60XX-WIFI-NO
           - IPQ807X-WIFI-YES
